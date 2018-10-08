@@ -1,0 +1,28 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "my self websocket server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "ws": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kehuanhuan/websocket-server.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "kehuanhuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kehuanhuan/websocket-server/issues"
+  },
+  "homepage": "https://github.com/kehuanhuan/websocket-server#readme"
+}
